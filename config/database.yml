@@ -82,7 +82,5 @@ test:
 #
 production:
   <<: *default
-  database: couch_tour_api_production
-  username: test
-  password: test
+  url: <%= ENV['DATABASE_URL'] %>
 
