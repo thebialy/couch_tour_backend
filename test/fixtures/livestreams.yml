@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  band: MyString
+  show_day: 2020-12-10
+  show_link: MyString
+  img: MyString
+  user: one
+
+two:
+  band: MyString
+  show_day: 2020-12-10
+  show_link: MyString
+  img: MyString
+  user: two
